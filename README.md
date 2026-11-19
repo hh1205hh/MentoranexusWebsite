@@ -1,3 +1,5 @@
+## Project classification: Educational ##
+
 > [!NOTE]
 > This project is not in its final form.
 >
