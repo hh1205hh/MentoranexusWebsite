@@ -1,7 +1,10 @@
 > [!NOTE]
 > This project is not in its final form.
 >
-> Additionally, it is classified as an institutional education project, which is not for general use, but rather as a form of "boisterous" educational manifests mandated by the places where I studied.
+> Additionally, it is classified as an institutional education project, which is not for general use, but rather as a form of "boisterous" educational manifests mandated by the places where I studied.\\
+>
+> This repo was programmatically assisted by AI tools. However, its foundations, the underlying code, and the overall structure were created by me. 
+
 
 # Mentora Nexus - Online Bookstore Portal
 
