@@ -1,5 +1,7 @@
 > [!NOTE]
-> This project is not in its final form. 
+> This project is not in its final form.
+>
+> Additionally, it is classified as an institutional education project, which is not for general use, but rather as a form of "boisterous" educational manifests mandated by the places where I studied.
 
 # Mentora Nexus - Online Bookstore Portal
 
@@ -20,11 +22,6 @@ The project is a dynamic website that is currently evolving from its original "L
       * **New Arrivals:** A section for new books, also with dedicated product pages.
   * **Documentation:** Includes the full project design and development specification document.
 
-## Technology Stack
-
-  * **Backend:** **PHP** (for server-side logic, user authentication, and page templating).
-  * **Frontend:** **HTML5** and **CSS3** (for all styling, organized into component files like `header.css`, `footer.css`, and `main.css`).
-  * **Data Storage:** A simple **JSON** file (`users.json`) is currently used for storing registered user data.
 
 ## Future Improvements
 
@@ -43,19 +40,3 @@ To run this project, you need a local server environment that supports PHP (e.g.
 1.  Clone this repository into your local server's web directory (e.g., `htdocs` in XAMPP).
 2.  Start your Apache server.
 3.  Open your web browser and navigate to `http://localhost/mentoranexus-library-portal/` (or the name of the directory you cloned it into).
-
-## Project Structure
-
-```
-/
-├── About/              # PHP files for the 'About' section
-├── Bestsellers/        # PHP files for 'Bestsellers' books
-├── Contact/            # PHP file for the 'Contact' page
-├── Images/             # All visual assets (logos, backgrounds, book covers)
-├── New-Arrivals/       # PHP files for 'New-Arrivals' books
-├── Users/              # User authentication forms (HTML) and logic (PHP)
-├── Visit/              # PHP file for the 'Visit' section
-├── css/                # All CSS stylesheets
-├── index.php           # The main homepage
-└── MentoraNexus - Documentation.docx  # Project specification document
-```
